@@ -1,13 +1,24 @@
-# README
-## This is the README for your extension "ng2toolbelt"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Ng2 Toolbelt
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+The missing toolbelt for Angular 2 in VSCode.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-**Enjoy!**
+## Goal
+The first step is to use command palette to create files based on user selections:
+
+ - User specify the name
+ - User select whether it's a component or service or other types
+ - create `.ts`, `.html`, `.css` files accordingly.
+ 
+## Reason
+
+ - Manually create 3 files when creating a single component is tooooo tidious
+ - Is it just me or someone else often spell the word `component` incorrectly?
+ 
+### Why not use right click?
+
+Right click in VSCode is little bit tricky. I haven't figure it out yet.
+
+Let me know if you have any suggestion/thoughts.
+
+[Email me](mailto:zhaoshengjun@gmail.com) 
