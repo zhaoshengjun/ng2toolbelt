@@ -10,6 +10,10 @@ The first step is to use command palette to create files based on user selection
  - User select whether it's a component or service or other types
  - create `.ts`, `.html`, `.css` files accordingly.
  
+ See the following screenshots:
+ 
+ ![create component](create-component.gif)
+ 
 ## Reason
 
  - Manually create 3 files when creating a single component is tooooo tidious
