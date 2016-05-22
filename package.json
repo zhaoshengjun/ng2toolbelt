@@ -11,13 +11,13 @@
         "Other"
     ],
     "activationEvents": [
-        "onCommand:extension.sayHello"
+        "onCommand:extension.ng2toolbelt"
     ],
     "main": "./out/src/extension",
     "contributes": {
         "commands": [{
-            "command": "extension.sayHello",
-            "title": "Hello World"
+            "command": "extension.ng2toolbelt",
+            "title": "Ng2 Toolbelt"
         }]
     },
     "scripts": {
